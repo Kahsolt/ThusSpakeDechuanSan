@@ -1,3 +1,8 @@
-# data
-models/
-corpus/
+# projects
+projects/*.tsp
+!projects/demo.tsp
+
+# data & model
+corpus/*.txt
+corpora/*.txt
+models/*.pkl

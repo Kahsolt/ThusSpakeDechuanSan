@@ -2,5 +2,5 @@ all:
 	python oracle.py
 
 clean:
-	rm -rf corpus/*.txt
+	rm -rf corpora/*.txt
 	rm -rf models/*.pkl
